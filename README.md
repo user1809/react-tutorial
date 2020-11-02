@@ -1,2 +1,2 @@
 # react-tutorial
-This id for react tutorial.
+This is for react tutorial.
